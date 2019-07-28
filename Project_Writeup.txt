@@ -1,0 +1,48 @@
+Rinkeby Testnet Contract Deployment
+SupplyChain.sol
+Transaction Hash: 0xf8c839162ad3a68464f4f2e65e56992c20a7535655086686c06fed69ea66b812
+contract address:    0xcB117E53c55C2f69c2F8467C4e6ce2Bed600205c
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+transaction hash:    0xdbd224b4e7a23e673bae1bb94aa8bcba4757f276a1a432f47ddde5a9e704cf32
+contract address:    0xD7cea55F742Cd6eb2C222E1ef3Ef2B59a496eee5
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'FarmerRole'
+   ----------------------
+transaction hash:    0x1fa869c24cc914b615ffae63e00520b3cad63d3d3ff8b16e8dc1f6d585b4392e
+contract address:    0x928CeFD29463F171bc81eEdA3fe93Cd634E232a7
+
+  Deploying 'DistributorRole'
+   ---------------------------
+transaction hash:    0x1fd5f7e6991033225ae1a26666f7f36a82e1f0c16a822cd99cd9c68011ae3f50
+contract address:    0x5706Bc1BB2258d224214ED0743433364A1AcA183
+
+
+Deploying 'RetailerRole'
+   ------------------------
+transaction hash:    0x7f5521c433855b7b5b52f7f96f9347b98ea5b95e7a41f8e1429d9fe261a2c988
+contract address:    0x9e04cf0ce35CE2320959B33411e3c90CCb69CEd2
+
+Deploying 'ConsumerRole'
+   ------------------------
+transaction hash:    0x171149487428b8ae4dabbc25359cb6d199e4c6c7f2604c05987692e405616ff0
+contract address:    0x884466bb7d716F2a4ACf12405b1159368cE38963
+
+
+Libraries - No libraries used
+
+IPFS - Not Used
+
+Truffle v5.0.18 (core: 5.0.18)
+Solidity v0.5.0 (solc-js)
+Node v10.6.0
+Web3.js v1.0.0-beta.37
+
+
