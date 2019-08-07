@@ -64,29 +64,29 @@ In a separate terminal window, launch the DApp:
 npm run dev
 ```
 
+## Rinkeby Testnet Contract Deployment
+SupplyChain.sol
+Transaction Hash: 0xf8c839162ad3a68464f4f2e65e56992c20a7535655086686c06fed69ea66b812
+contract address:    0xcB117E53c55C2f69c2F8467C4e6ce2Bed600205c
+
+## Libraries 
+No libraries used
+
+## IPFS 
+Not Used
+
+## Software used and Version Numbers
+Truffle v5.0.18 (core: 5.0.18)
+Solidity v0.5.0 (solc-js)
+Node v10.6.0
+Web3.js v1.0.0-beta.37
+
 ## Built With
 
 * [Ethereum](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts
 * [IPFS](https://ipfs.io/) - IPFS is the Distributed Web | A peer-to-peer hypermedia protocol
 to make the web faster, safer, and more open.
 * [Truffle Framework](http://truffleframework.com/) - Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.
-
-# Rinkeby Testnet Contract Deployment
-SupplyChain.sol
-Transaction Hash: 0xf8c839162ad3a68464f4f2e65e56992c20a7535655086686c06fed69ea66b812
-contract address:    0xcB117E53c55C2f69c2F8467C4e6ce2Bed600205c
-
-# Libraries 
-No libraries used
-
-# IPFS 
-Not Used
-
-# Software used and Version Numbers
-Truffle v5.0.18 (core: 5.0.18)
-Solidity v0.5.0 (solc-js)
-Node v10.6.0
-Web3.js v1.0.0-beta.37
 
 ## Acknowledgments
 
